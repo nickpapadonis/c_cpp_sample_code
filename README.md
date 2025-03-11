@@ -6,8 +6,6 @@ It should all compile.
 
 ## Installation
 
-These files go in $HOME, pick and choose.
-
 ```bash
 gcc
 g++
