@@ -1,0 +1,5 @@
+foxtrot
+alpha
+omega
+beta
+delta
